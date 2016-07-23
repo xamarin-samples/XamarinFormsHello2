@@ -116,9 +116,9 @@
     <None Include="Properties\AndroidManifest.xml" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\XamarinFormsHello\XamarinFormsHello.csproj">
+    <ProjectReference Include="..\XamarinFormsHello\XamarinFormsHello2.csproj">
       <Project>{78269D27-2F16-4EB3-9DC5-D4CF76C0548D}</Project>
-      <Name>XamarinFormsHello</Name>
+      <Name>XamarinFormsHello2</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />

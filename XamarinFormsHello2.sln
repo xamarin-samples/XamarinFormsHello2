@@ -3,17 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinFormsHello.Droid", "XamarinFormsHello\XamarinFormsHello.Droid\XamarinFormsHello.Droid.csproj", "{C879E23D-4549-4F61-9948-D4CADADC2CD7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinFormsHello2.Droid", "XamarinFormsHello\XamarinFormsHello.Droid\XamarinFormsHello2.Droid.csproj", "{C879E23D-4549-4F61-9948-D4CADADC2CD7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinFormsHello.iOS", "XamarinFormsHello\XamarinFormsHello.iOS\XamarinFormsHello.iOS.csproj", "{04E691DF-4AB2-4DBF-8F78-044CB2179BA1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinFormsHello2.iOS", "XamarinFormsHello\XamarinFormsHello.iOS\XamarinFormsHello2.iOS.csproj", "{04E691DF-4AB2-4DBF-8F78-044CB2179BA1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinFormsHello.WinPhone", "XamarinFormsHello\XamarinFormsHello.WinPhone\XamarinFormsHello.WinPhone.csproj", "{BD98C0B6-7F43-486D-BF8D-EB4586539893}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinFormsHello2.WinPhone", "XamarinFormsHello\XamarinFormsHello.WinPhone\XamarinFormsHello2.WinPhone.csproj", "{BD98C0B6-7F43-486D-BF8D-EB4586539893}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinFormsHello.UWP", "XamarinFormsHello\XamarinFormsHello.UWP\XamarinFormsHello.UWP.csproj", "{D5F7896F-851E-4F5B-A2EA-F43C90BBBEAD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinFormsHello2.UWP", "XamarinFormsHello\XamarinFormsHello.UWP\XamarinFormsHello2.UWP.csproj", "{D5F7896F-851E-4F5B-A2EA-F43C90BBBEAD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinFormsHello.Windows", "XamarinFormsHello\XamarinFormsHello.Windows\XamarinFormsHello.Windows.csproj", "{0D63724A-F7B7-4278-9993-75A62A67F89F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinFormsHello2.Windows", "XamarinFormsHello\XamarinFormsHello.Windows\XamarinFormsHello2.Windows.csproj", "{0D63724A-F7B7-4278-9993-75A62A67F89F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinFormsHello", "XamarinFormsHello\XamarinFormsHello\XamarinFormsHello.csproj", "{78269D27-2F16-4EB3-9DC5-D4CF76C0548D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinFormsHello2", "XamarinFormsHello\XamarinFormsHello\XamarinFormsHello2.csproj", "{78269D27-2F16-4EB3-9DC5-D4CF76C0548D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
