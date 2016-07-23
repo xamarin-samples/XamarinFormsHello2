@@ -20,8 +20,16 @@ namespace XamarinFormsHello
                     Children = {
                         new Label {
                             HorizontalTextAlignment = TextAlignment.Center,
-                            Text = "Welcome to Xamarin Forms!"
-                        }
+                            Text = "Hello Hello\nHello"
+                        },
+                        new Label {
+                            HorizontalTextAlignment = TextAlignment.Start,
+                            Text = "Xamarin\nWorld"
+                        },
+                        new Label {
+                            HorizontalTextAlignment = TextAlignment.End,
+                            Text = "with\nVisual Studio"
+                        },
                     }
                 }
             };
