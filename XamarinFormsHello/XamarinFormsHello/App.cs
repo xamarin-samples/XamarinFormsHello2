@@ -12,27 +12,7 @@ namespace XamarinFormsHello
         public App()
         {
             // The root page of your application
-            MainPage = new ContentPage
-            {
-                Content = new StackLayout
-                {
-                    VerticalOptions = LayoutOptions.Center,
-                    Children = {
-                        new Label {
-                            HorizontalTextAlignment = TextAlignment.Center,
-                            Text = "Hello Hello\nHello"
-                        },
-                        new Label {
-                            HorizontalTextAlignment = TextAlignment.Start,
-                            Text = "Xamarin\nWorld"
-                        },
-                        new Label {
-                            HorizontalTextAlignment = TextAlignment.End,
-                            Text = "with\nVisual Studio"
-                        },
-                    }
-                }
-            };
+            MainPage = new Page1();
         }
 
         protected override void OnStart()
