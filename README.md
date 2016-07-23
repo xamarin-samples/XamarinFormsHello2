@@ -1,5 +1,5 @@
-# XamarinFormsHello
-Xamarin.Forms Hello sample
+# XamarinFormsHello2
+Xamarin.Forms Hello sample with XAML
 
 ## Pickuped code
 XamarinFormsHello/XamarinFormsHello/App.cs
